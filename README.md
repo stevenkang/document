@@ -6,3 +6,4 @@
  4. [Linux 常用指令](linux.md)
  5. [MyEclipse 使用](myeclipse.md)
  6. [JSP 好看的验证码](verification-code.md)
+ 7. [通用 IT 技术](it.md)
